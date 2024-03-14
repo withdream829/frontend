@@ -7,8 +7,8 @@ import { ConnectButton } from "@rainbow-me/rainbowkit";
 import Modal from "antd/es/modal/Modal";
 import GitHubLogin from "react-github-login";
 import GithubImage from "../../../public/svg/github-mark.svg";
-import MetaMaskImage from "../../../public/svg/metamask.svg";
 import PolkadotImage from "../../../public/svg/polkadot.svg";
+import MetaMaskImage from "../../../public/svg/metamask.svg";
 
 const words: string[] = [
   "developers.",
